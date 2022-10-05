@@ -7,4 +7,7 @@ public class Test {
 	int a = 5;
 	String test3 ="a" ;
 	int p = 50;
+	int pt = 55;
+	
+	boolean aliando = true;
 }
