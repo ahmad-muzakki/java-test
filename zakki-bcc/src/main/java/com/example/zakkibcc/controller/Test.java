@@ -8,4 +8,6 @@ public class Test {
 	String test3 ="a" ;
 	int p = 50;
 	int pt = 55;
+	
+	boolean aliando = true;
 }
