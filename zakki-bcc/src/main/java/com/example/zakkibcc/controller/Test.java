@@ -6,4 +6,5 @@ public class Test {
 	String test2 = "a";
 	int a = 5;
 	String test3 ="a" ;
+	int p = 50;
 }
