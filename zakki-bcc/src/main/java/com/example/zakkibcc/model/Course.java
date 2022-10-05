@@ -41,4 +41,6 @@ public class Course {
 	public void setSks(Integer sks) {
 		this.sks = sks;
 	}
+	
+	String a = "al";
 }
